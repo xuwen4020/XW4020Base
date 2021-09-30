@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "XW4020Base"
-  spec.version      = "1.1.2"
+  spec.version      = "1.1.3"
   spec.summary      = "Test XWBase"
 
   spec.homepage     = "https://github.com/xuwen4020/XW4020Base.git"    
@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
   spec.ios.deployment_target = "9.0"
 
   spec.source       = { :git => "https://github.com/xuwen4020/XW4020Base.git", :tag => "#{spec.version}" }
-  spec.source_files  = "XWBase/**/*.{h,m}"
+  spec.source_files  = "XW4020Base/**/*.{h,m}"
   #spec.resource  = "Product/XWBaseBundle.bundle"
   #spec.ios.vendored_frameworks = 'Product/XWBase.framework'
 
