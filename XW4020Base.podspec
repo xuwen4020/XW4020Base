@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "XW4020Base"
-  spec.version      = "1.1.1"
+  spec.version      = "1.1.2"
   spec.summary      = "Test XWBase"
 
   spec.homepage     = "https://github.com/xuwen4020/XW4020Base.git"    
